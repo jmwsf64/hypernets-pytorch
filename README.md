@@ -4,7 +4,7 @@ Hyper Networks are Neural Nets where one network (HyperNet) outputs the weights 
 
 # Project Overview
 
-This project is intended as a demonstration on how to implement HyperNetworks using PyTorch. The example Hyper Network uses a Deep Neural Network as the HyperNet and a Long Short Term Memory (LSTM) network as the TargetNet. `gen_sin_data.ipynb` demonstrates one way of creating input data sets that relate the inputs to the HyperNet and TargetNet, and will create Sine Waves of varying amplitude and frequency. Amplitude and Frequency will be the inputs to the HyperNet DNN, and the sinusoidal series data will be the input to the TargetNet LSTM.
+This project is intended as a demonstration on how to implement HyperNetworks using PyTorch. The example Hyper Network uses a Deep Neural Network as the HyperNet and a Long Short Term Memory (LSTM) network as the TargetNet.
 
 # Additional Links
 
